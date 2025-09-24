@@ -4,7 +4,7 @@
 
 
 # ![Activity](https://fonts.gstatic.com/s/i/materialicons/bolt/v6/24px.svg)  **Activity** 5
-![image alt](https://github.com/jeekian11/VueJs-Composition-Act4/blob/9a71696bd67221ed916e9a49453c06e1db10bb0d/Screenshot%202025-09-10%20210339.png)
+![image alt](https://github.com/hiiicoy/VueJs-Project/blob/280cbefd00001e70820d216152dde15b2e213283/rico.JPG)
 
 
 # ![Activity](https://fonts.gstatic.com/s/i/materialicons/bolt/v6/24px.svg)  **Activity** 6
